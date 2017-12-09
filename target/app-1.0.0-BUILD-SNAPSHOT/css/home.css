@@ -1,0 +1,16 @@
+.maindiv{
+
+	margin :auto ;
+	padding:160px;
+	text-align: center;
+}
+
+.btn{
+	display:inline;
+	height: 46px;
+}
+
+.input-lg{
+	width:40%;
+	display:inline;
+}
